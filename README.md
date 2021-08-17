@@ -1,10 +1,11 @@
-### Olá, eu sou a Inaê Rosa 👋
+# Hey 👋
 
--  Atualmente trabalho com front-end
-- Estou aprendendo sobre React
-- Atuo em projetos MERN
-- Pronomes: ela/dela
-- Você pode conversar comigo através desse e-mail: inaedb.rosa@gmail.com
+- My name is Inaê Rosa
+- I work with front-end development
+- I'm learning React.js
+- Working on MERN projects
+- Pronouns: she/her
+- 📫 inaedb.rosa@gmail.com
 
  <div>
   <a href="https://github.com/inaerosa">
