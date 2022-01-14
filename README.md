@@ -11,7 +11,6 @@
 - Working on MERN projects
 - Pronouns: she | her
 
-  ##
   
   <div  style="display: inline_block">
   
