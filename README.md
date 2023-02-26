@@ -6,7 +6,7 @@
 
 <br>
 
-- My name is Inaê Rosa, I'm 22yo and I study System Analysis and Development.
+- My name is Inaê Rosa, I'm 23yo and I study System Analysis and Development.
 - I'm focusing on backend development
 - Pronouns: she | her
 
