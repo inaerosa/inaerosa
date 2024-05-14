@@ -8,7 +8,7 @@
 
 My name is Inaê Rosa, I'm 24yo.
 
-I have a degree in Systems Analysis and Development from IFRS and I've been working as a back-end developer since 2022.
+I have a degree in Systems Analysis and Development from IFRS and I've been working as a back-end developer since 2020.
 
 Take a seat and see what I'm developing.
 
